@@ -1,0 +1,232 @@
+{1:yyyy-MM-dd HH:mm:ss} - RobloxPlayerBeta.exe found. Activating Roblox window.
+{1:yyyy-MM-dd HH:mm:ss} - RobloxPlayerBeta.exe found. Activating Roblox window.
+{1:yyyy-MM-dd HH:mm:ss} - Starting main function.
+{1:yyyy-MM-dd HH:mm:ss} - 'Tasks' text found. Continuing with the script.
+{1:yyyy-MM-dd HH:mm:ss} - Clicked on 'Tasks' text.
+{1:yyyy-MM-dd HH:mm:ss} - Clicked on area at (68, 570).
+{1:yyyy-MM-dd HH:mm:ss} - Clicked on tp e at (875, 600).
+{1:yyyy-MM-dd HH:mm:ss} - Clicked at (1358, 293).
+{1:yyyy-MM-dd HH:mm:ss} - Pressed and held the 'w' key.
+{1:yyyy-MM-dd HH:mm:ss} - Released the 'w' key.
+{1:yyyy-MM-dd HH:mm:ss} - Pressed and held the 'd' key.
+{1:yyyy-MM-dd HH:mm:ss} - Released the 'd' key.
+{1:yyyy-MM-dd HH:mm:ss} - Pressed and held the 's' key.
+{1:yyyy-MM-dd HH:mm:ss} - RobloxPlayerBeta.exe found. Activating Roblox window.
+{1:yyyy-MM-dd HH:mm:ss} - Starting main function.
+{1:yyyy-MM-dd HH:mm:ss} - Starting main function.
+{1:yyyy-MM-dd HH:mm:ss} - Starting main function.
+{1:yyyy-MM-dd HH:mm:ss} - Starting main function.
+{1:yyyy-MM-dd HH:mm:ss} - RobloxPlayerBeta.exe found. Activating Roblox window.
+{1:yyyy-MM-dd HH:mm:ss} - Starting main function.
+{1:yyyy-MM-dd HH:mm:ss} - 'Tasks' text found. Continuing with the script.
+{1:yyyy-MM-dd HH:mm:ss} - Clicked on 'Tasks' text.
+{1:yyyy-MM-dd HH:mm:ss} - Clicked on area at (68, 570).
+{1:yyyy-MM-dd HH:mm:ss} - Clicked on tp e at (875, 600).
+{1:yyyy-MM-dd HH:mm:ss} - Clicked at (1358, 293).
+{1:yyyy-MM-dd HH:mm:ss} - Pressed and held the 'w' key.
+{1:yyyy-MM-dd HH:mm:ss} - Released the 'w' key.
+{1:yyyy-MM-dd HH:mm:ss} - Pressed and held the 'd' key.
+{1:yyyy-MM-dd HH:mm:ss} - RobloxPlayerBeta.exe found. Activating Roblox window.
+{1:yyyy-MM-dd HH:mm:ss} - Starting main function.
+{1:yyyy-MM-dd HH:mm:ss} - 'Tasks' text found. Continuing with the script.
+{1:yyyy-MM-dd HH:mm:ss} - Clicked on 'Tasks' text.
+{1:yyyy-MM-dd HH:mm:ss} - Clicked on area at (68, 570).
+{1:yyyy-MM-dd HH:mm:ss} - Clicked on tp e at (875, 600).
+{1:yyyy-MM-dd HH:mm:ss} - Clicked at (1358, 293).
+{1:yyyy-MM-dd HH:mm:ss} - Pressed and held the 'w' key.
+{1:yyyy-MM-dd HH:mm:ss} - Released the 'w' key.
+{1:yyyy-MM-dd HH:mm:ss} - Pressed and held the 'd' key.
+{1:yyyy-MM-dd HH:mm:ss} - RobloxPlayerBeta.exe found. Activating Roblox window.
+{1:yyyy-MM-dd HH:mm:ss} - Starting main function.
+{1:yyyy-MM-dd HH:mm:ss} - 'Tasks' text found. Continuing with the script.
+{1:yyyy-MM-dd HH:mm:ss} - Clicked on 'Tasks' text.
+{1:yyyy-MM-dd HH:mm:ss} - Clicked on area at (68, 570).
+{1:yyyy-MM-dd HH:mm:ss} - Clicked on tp e at (875, 600).
+{1:yyyy-MM-dd HH:mm:ss} - Clicked at (1358, 293).
+{1:yyyy-MM-dd HH:mm:ss} - Pressed and held the 'w' key.
+{1:yyyy-MM-dd HH:mm:ss} - Released the 'w' key.
+{1:yyyy-MM-dd HH:mm:ss} - Pressed and held the 'd' key.
+{1:yyyy-MM-dd HH:mm:ss} - RobloxPlayerBeta.exe found. Activating Roblox window.
+{1:yyyy-MM-dd HH:mm:ss} - Starting main function.
+{1:yyyy-MM-dd HH:mm:ss} - 'Tasks' text found. Continuing with the script.
+{1:yyyy-MM-dd HH:mm:ss} - Clicked on 'Tasks' text.
+{1:yyyy-MM-dd HH:mm:ss} - Clicked on area at (68, 570).
+{1:yyyy-MM-dd HH:mm:ss} - Clicked on tp e at (875, 600).
+{1:yyyy-MM-dd HH:mm:ss} - Clicked at (1358, 293).
+{1:yyyy-MM-dd HH:mm:ss} - Pressed and held the 'w' key.
+{1:yyyy-MM-dd HH:mm:ss} - Released the 'w' key.
+{1:yyyy-MM-dd HH:mm:ss} - Pressed and held the 'd' key.
+{1:yyyy-MM-dd HH:mm:ss} - RobloxPlayerBeta.exe found. Activating Roblox window.
+{1:yyyy-MM-dd HH:mm:ss} - Starting main function.
+{1:yyyy-MM-dd HH:mm:ss} - 'Tasks' text found. Continuing with the script.
+{1:yyyy-MM-dd HH:mm:ss} - Clicked on 'Tasks' text.
+{1:yyyy-MM-dd HH:mm:ss} - Clicked on area at (68, 570).
+{1:yyyy-MM-dd HH:mm:ss} - Clicked on tp e at (875, 600).
+{1:yyyy-MM-dd HH:mm:ss} - Clicked at (1358, 293).
+{1:yyyy-MM-dd HH:mm:ss} - Pressed and held the 'w' key.
+{1:yyyy-MM-dd HH:mm:ss} - Released the 'w' key.
+{1:yyyy-MM-dd HH:mm:ss} - Pressed and held the 'd' key.
+{1:yyyy-MM-dd HH:mm:ss} - RobloxPlayerBeta.exe found. Activating Roblox window.
+{1:yyyy-MM-dd HH:mm:ss} - Starting main function.
+{1:yyyy-MM-dd HH:mm:ss} - 'Tasks' text found. Continuing with the script.
+{1:yyyy-MM-dd HH:mm:ss} - Clicked on 'Tasks' text.
+{1:yyyy-MM-dd HH:mm:ss} - Clicked on area at (68, 570).
+{1:yyyy-MM-dd HH:mm:ss} - Clicked on tp e at (875, 600).
+{1:yyyy-MM-dd HH:mm:ss} - Clicked at (1358, 293).
+{1:yyyy-MM-dd HH:mm:ss} - Pressed and held the 'w' key.
+{1:yyyy-MM-dd HH:mm:ss} - Released the 'w' key.
+{1:yyyy-MM-dd HH:mm:ss} - Pressed and held the 'd' key.
+{1:yyyy-MM-dd HH:mm:ss} - RobloxPlayerBeta.exe found. Activating Roblox window.
+{1:yyyy-MM-dd HH:mm:ss} - Starting main function.
+{1:yyyy-MM-dd HH:mm:ss} - 'Tasks' text found. Continuing with the script.
+{1:yyyy-MM-dd HH:mm:ss} - Clicked on 'Tasks' text.
+{1:yyyy-MM-dd HH:mm:ss} - Clicked on area at (68, 570).
+{1:yyyy-MM-dd HH:mm:ss} - Clicked on tp e at (875, 600).
+{1:yyyy-MM-dd HH:mm:ss} - Clicked at (1358, 293).
+{1:yyyy-MM-dd HH:mm:ss} - Pressed and held the 'w' key.
+{1:yyyy-MM-dd HH:mm:ss} - Released the 'w' key.
+{1:yyyy-MM-dd HH:mm:ss} - Pressed and held the 'd' key.
+{1:yyyy-MM-dd HH:mm:ss} - RobloxPlayerBeta.exe found. Activating Roblox window.
+{1:yyyy-MM-dd HH:mm:ss} - Starting main function.
+{1:yyyy-MM-dd HH:mm:ss} - 'Tasks' text found. Continuing with the script.
+{1:yyyy-MM-dd HH:mm:ss} - Clicked on 'Tasks' text.
+{1:yyyy-MM-dd HH:mm:ss} - Clicked on area at (68, 570).
+{1:yyyy-MM-dd HH:mm:ss} - Clicked on tp e at (875, 600).
+{1:yyyy-MM-dd HH:mm:ss} - Clicked at (1358, 293).
+{1:yyyy-MM-dd HH:mm:ss} - Pressed and held the 'w' key.
+{1:yyyy-MM-dd HH:mm:ss} - Released the 'w' key.
+{1:yyyy-MM-dd HH:mm:ss} - Pressed and held the 'd' key.
+{1:yyyy-MM-dd HH:mm:ss} - Released the 'd' key.
+{1:yyyy-MM-dd HH:mm:ss} - Pressed and held the 's' key.
+{1:yyyy-MM-dd HH:mm:ss} - Released the 's' key.
+{1:yyyy-MM-dd HH:mm:ss} - Pressed and released the 'e' key.
+{1:yyyy-MM-dd HH:mm:ss} - 'You have been disconnected' text found. Restarting main function.
+{1:yyyy-MM-dd HH:mm:ss} - Starting main function.
+{1:yyyy-MM-dd HH:mm:ss} - 'Tasks' text found. Continuing with the script.
+{1:yyyy-MM-dd HH:mm:ss} - Clicked on 'Tasks' text.
+{1:yyyy-MM-dd HH:mm:ss} - Clicked on area at (68, 570).
+{1:yyyy-MM-dd HH:mm:ss} - Clicked on tp e at (875, 600).
+{1:yyyy-MM-dd HH:mm:ss} - RobloxPlayerBeta.exe found. Activating Roblox window.
+{1:yyyy-MM-dd HH:mm:ss} - Starting main function.
+{1:yyyy-MM-dd HH:mm:ss} - 'Tasks' text found. Continuing with the script.
+{1:yyyy-MM-dd HH:mm:ss} - Clicked on 'Tasks' text.
+{1:yyyy-MM-dd HH:mm:ss} - Clicked on area at (68, 570).
+{1:yyyy-MM-dd HH:mm:ss} - Clicked on tp e at (875, 600).
+{1:yyyy-MM-dd HH:mm:ss} - Clicked at (1358, 293).
+{1:yyyy-MM-dd HH:mm:ss} - Pressed and held the 'w' key.
+{1:yyyy-MM-dd HH:mm:ss} - Released the 'w' key.
+{1:yyyy-MM-dd HH:mm:ss} - Pressed and held the 'd' key.
+{1:yyyy-MM-dd HH:mm:ss} - Released the 'd' key.
+{1:yyyy-MM-dd HH:mm:ss} - Pressed and held the 's' key.
+{1:yyyy-MM-dd HH:mm:ss} - Released the 's' key.
+{1:yyyy-MM-dd HH:mm:ss} - Pressed and released the 'e' key.
+{1:yyyy-MM-dd HH:mm:ss} - 'You have been disconnected' text found. Restarting main function.
+{1:yyyy-MM-dd HH:mm:ss} - Starting main function.
+{1:yyyy-MM-dd HH:mm:ss} - 'Tasks' text found. Continuing with the script.
+{1:yyyy-MM-dd HH:mm:ss} - Clicked on 'Tasks' text.
+{1:yyyy-MM-dd HH:mm:ss} - Clicked on area at (68, 570).
+{1:yyyy-MM-dd HH:mm:ss} - Clicked on tp e at (875, 600).
+{1:yyyy-MM-dd HH:mm:ss} - Clicked at (1358, 293).
+{1:yyyy-MM-dd HH:mm:ss} - Pressed and held the 'w' key.
+{1:yyyy-MM-dd HH:mm:ss} - Released the 'w' key.
+{1:yyyy-MM-dd HH:mm:ss} - Pressed and held the 'd' key.
+{1:yyyy-MM-dd HH:mm:ss} - RobloxPlayerBeta.exe not found. Launching Roblox.
+{1:yyyy-MM-dd HH:mm:ss} - RobloxPlayerBeta.exe found. Activating Roblox window.
+{1:yyyy-MM-dd HH:mm:ss} - Snipped text and set clipboard.
+{1:yyyy-MM-dd HH:mm:ss} - Snipped text and set clipboard.
+{1:yyyy-MM-dd HH:mm:ss} - Snipped text and set clipboard.
+{1:yyyy-MM-dd HH:mm:ss} - Starting main function.
+{1:yyyy-MM-dd HH:mm:ss} - 'Tasks' text found. Continuing with the script.
+{1:yyyy-MM-dd HH:mm:ss} - Clicked on 'Tasks' text.
+{1:yyyy-MM-dd HH:mm:ss} - Clicked on area at (68, 570).
+{1:yyyy-MM-dd HH:mm:ss} - Clicked on tp e at (875, 600).
+{1:yyyy-MM-dd HH:mm:ss} - Clicked at (1358, 293).
+{1:yyyy-MM-dd HH:mm:ss} - Pressed and held the 'w' key.
+{1:yyyy-MM-dd HH:mm:ss} - Released the 'w' key.
+{1:yyyy-MM-dd HH:mm:ss} - Pressed and held the 'd' key.
+{1:yyyy-MM-dd HH:mm:ss} - Released the 'd' key.
+{1:yyyy-MM-dd HH:mm:ss} - Pressed and held the 's' key.
+{1:yyyy-MM-dd HH:mm:ss} - Released the 's' key.
+{1:yyyy-MM-dd HH:mm:ss} - Pressed and released the 'e' key.
+{1:yyyy-MM-dd HH:mm:ss} - 'You have been disconnected' text found. Restarting main function.
+{1:yyyy-MM-dd HH:mm:ss} - Starting main function.
+{1:yyyy-MM-dd HH:mm:ss} - RobloxPlayerBeta.exe found. Activating Roblox window.
+{1:yyyy-MM-dd HH:mm:ss} - RobloxPlayerBeta.exe found. Activating Roblox window.
+{1:yyyy-MM-dd HH:mm:ss} - RobloxPlayerBeta.exe found. Activating Roblox window.
+{1:yyyy-MM-dd HH:mm:ss} - Starting main function.
+{1:yyyy-MM-dd HH:mm:ss} - RobloxPlayerBeta.exe found. Activating Roblox window.
+{1:yyyy-MM-dd HH:mm:ss} - Starting main function.
+{1:yyyy-MM-dd HH:mm:ss} - 'Tasks' text found. Continuing with the script.
+{1:yyyy-MM-dd HH:mm:ss} - Clicked on 'Tasks' text.
+{1:yyyy-MM-dd HH:mm:ss} - Clicked on area at (68, 570).
+{1:yyyy-MM-dd HH:mm:ss} - Clicked on tp e at (875, 600).
+{1:yyyy-MM-dd HH:mm:ss} - Clicked at (1358, 293).
+{1:yyyy-MM-dd HH:mm:ss} - Pressed and held the 'w' key.
+{1:yyyy-MM-dd HH:mm:ss} - Released the 'w' key.
+{1:yyyy-MM-dd HH:mm:ss} - Pressed and held the 'd' key.
+{1:yyyy-MM-dd HH:mm:ss} - Released the 'd' key.
+{1:yyyy-MM-dd HH:mm:ss} - Pressed and held the 's' key.
+{1:yyyy-MM-dd HH:mm:ss} - Released the 's' key.
+{1:yyyy-MM-dd HH:mm:ss} - Pressed and released the 'e' key.
+{1:yyyy-MM-dd HH:mm:ss} - Starting main function.
+{1:yyyy-MM-dd HH:mm:ss} - Starting main function.
+{1:yyyy-MM-dd HH:mm:ss} - 'Tasks' text found. Continuing with the script.
+{1:yyyy-MM-dd HH:mm:ss} - Clicked on 'Tasks' text.
+{1:yyyy-MM-dd HH:mm:ss} - Clicked on area at (68, 570).
+{1:yyyy-MM-dd HH:mm:ss} - Clicked on tp e at (875, 600).
+{1:yyyy-MM-dd HH:mm:ss} - Clicked at (1358, 293).
+{1:yyyy-MM-dd HH:mm:ss} - Pressed and held the 'w' key.
+{1:yyyy-MM-dd HH:mm:ss} - Released the 'w' key.
+{1:yyyy-MM-dd HH:mm:ss} - Pressed and held the 'd' key.
+{1:yyyy-MM-dd HH:mm:ss} - Released the 'd' key.
+{1:yyyy-MM-dd HH:mm:ss} - Pressed and held the 's' key.
+{1:yyyy-MM-dd HH:mm:ss} - Released the 's' key.
+{1:yyyy-MM-dd HH:mm:ss} - Pressed and released the 'e' key.
+{1:yyyy-MM-dd HH:mm:ss} - RobloxPlayerBeta.exe found. Activating Roblox window.
+{1:yyyy-MM-dd HH:mm:ss} - Starting main function.
+{1:yyyy-MM-dd HH:mm:ss} - Starting main function.
+{1:yyyy-MM-dd HH:mm:ss} - RobloxPlayerBeta.exe found. Activating Roblox window.
+{1:yyyy-MM-dd HH:mm:ss} - Starting main function.
+{1:yyyy-MM-dd HH:mm:ss} - Clicked on 'Tasks' text.
+{1:yyyy-MM-dd HH:mm:ss} - Clicked on area at (68, 570).
+{1:yyyy-MM-dd HH:mm:ss} - Clicked on tp e at (875, 600).
+{1:yyyy-MM-dd HH:mm:ss} - Clicked at (1358, 293).
+{1:yyyy-MM-dd HH:mm:ss} - RobloxPlayerBeta.exe found. Activating Roblox window.
+{1:yyyy-MM-dd HH:mm:ss} - Starting main function.
+{1:yyyy-MM-dd HH:mm:ss} - Clicked on 'Tasks' text.
+{1:yyyy-MM-dd HH:mm:ss} - Clicked on area at (68, 570).
+{1:yyyy-MM-dd HH:mm:ss} - Clicked on tp e at (875, 600).
+{1:yyyy-MM-dd HH:mm:ss} - Clicked at (1358, 293).
+{1:yyyy-MM-dd HH:mm:ss} - Pressed and held the 'w' key.
+{1:yyyy-MM-dd HH:mm:ss} - Released the 'w' key.
+{1:yyyy-MM-dd HH:mm:ss} - Pressed and held the 'd' key.
+{1:yyyy-MM-dd HH:mm:ss} - Released the 'd' key.
+{1:yyyy-MM-dd HH:mm:ss} - Pressed and held the 's' key.
+{1:yyyy-MM-dd HH:mm:ss} - Released the 's' key.
+{1:yyyy-MM-dd HH:mm:ss} - Pressed and released the 'e' key.
+{1:yyyy-MM-dd HH:mm:ss} - 'You have been disconnected' text found. Restarting main function.
+{1:yyyy-MM-dd HH:mm:ss} - Starting main function.
+{1:yyyy-MM-dd HH:mm:ss} - 'Tasks' text found. Continuing with the script.
+{1:yyyy-MM-dd HH:mm:ss} - Clicked on 'Tasks' text.
+{1:yyyy-MM-dd HH:mm:ss} - Clicked on area at (68, 570).
+{1:yyyy-MM-dd HH:mm:ss} - Clicked on tp e at (875, 600).
+{1:yyyy-MM-dd HH:mm:ss} - Clicked at (1358, 293).
+{1:yyyy-MM-dd HH:mm:ss} - Pressed and held the 'w' key.
+{1:yyyy-MM-dd HH:mm:ss} - Released the 'w' key.
+{1:yyyy-MM-dd HH:mm:ss} - Pressed and held the 'd' key.
+{1:yyyy-MM-dd HH:mm:ss} - Released the 'd' key.
+{1:yyyy-MM-dd HH:mm:ss} - Pressed and held the 's' key.
+{1:yyyy-MM-dd HH:mm:ss} - Released the 's' key.
+{1:yyyy-MM-dd HH:mm:ss} - Pressed and released the 'e' key.
+{1:yyyy-MM-dd HH:mm:ss} - 'You have been disconnected' text found. Restarting main function.
+{1:yyyy-MM-dd HH:mm:ss} - Starting main function.
+{1:yyyy-MM-dd HH:mm:ss} - 'Tasks' text found. Continuing with the script.
+{1:yyyy-MM-dd HH:mm:ss} - Clicked on 'Tasks' text.
+{1:yyyy-MM-dd HH:mm:ss} - Clicked on area at (68, 570).
+{1:yyyy-MM-dd HH:mm:ss} - Clicked on tp e at (875, 600).
+{1:yyyy-MM-dd HH:mm:ss} - Clicked at (1358, 293).
+{1:yyyy-MM-dd HH:mm:ss} - Pressed and held the 'w' key.
+{1:yyyy-MM-dd HH:mm:ss} - Released the 'w' key.
+{1:yyyy-MM-dd HH:mm:ss} - Pressed and held the 'd' key.
+{1:yyyy-MM-dd HH:mm:ss} - Released the 'd' key.
+{1:yyyy-MM-dd HH:mm:ss} - Pressed and held the 's' key.
