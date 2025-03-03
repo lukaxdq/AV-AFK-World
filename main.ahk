@@ -8,7 +8,8 @@
 #include Discord-Webhook-master\lib\resources\JSON.ahk
 #include Discord-Webhook-master\lib\resources\EmbedBuilder.ahk
 #include Discord-Webhook-master\lib\resources\WebHookBuilder.ahk
-#include C:\Users\PCuse\OneDrive\Radna površina\afk\scr\lib\Gdip_All.ahk
+#Include C:\Users\PCuse\OneDrive\Radna površina\afk\scr\lib\Gdip_All.ahk
+
 WebhookURL := "https://discord.com/api/webhooks/1337184082420826174/r2D8cYjrG5iPniO90Tiv90rI8b_uMYxv21eSSouss1tmjNa4oNjjOMZ5MT6mwjcSPxoE"
 global MacroStartTime := A_TickCount
 global StageStartTime := A_TickCount
@@ -16,6 +17,7 @@ keyw := "w"
 keyd := "d"
 keys := "s"
 keye := "e"
+Text := "|<>*103$76.zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzw8A677zzzzzzzUksMQDzzzzzzw001UkzzzzzzzU00UkMzzzzzzwA673XlzzzzzzU0MAA67zzzzzw0000037zzzzzVUkkMQCDzzzzw0231VkszzzzzU0000011zzzzw006331VlzzzzU0EMQCC77zzzw00000EMQDzzzU000EMACDDzzw00331VkswTzzU00T467nXlzzw003y01zUkvzzU00QQQC777Xzw003UsksCQSDzU00A1k70Mazzy000U3Vs1swSzw00306707Xlvzk00A0AM0w67zz000M0T0373Xzw001k0s0QQSDzk001U103Vkszz0003000MkMTzw000C003XXlzzk000Q00QCD7zzU000s03aHPzzy0001k0QwSTTzzU00701Xltzzzzk00Q076LTzzzzk03U0Dbbzzzzzk1w00STTzzzzzzzU00zzzzzzzzzw001zzzzzzzzzU103zzzzzzzzw0C07zzzzzzzzU1w0Dzzzzzzzy0Ds0zzzzzzzzk1zk1zzzzzzzy0DzU7zzzzzzzw1zz0TzzzzzzzkDzw3zzzzzzzzkzzsTzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzvzzzzzzzzzzzzjzzzzzzzzzzzyzzzzzzzzzzzzvzzzzzzzzzzzzjzzzs"
 RobloxWindow := "RobloxPlayerBeta.exe"
 area := "66, 555"
 clickx := "1342, 324"

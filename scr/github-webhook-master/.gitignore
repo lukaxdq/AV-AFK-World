@@ -1,0 +1,10 @@
+.DS_Store
+config.user.php
+sync-cache/*
+sync-configs/*
+
+.buildpath
+.project
+.settings/org.eclipse.php.core.prefs
+
+._.gitignore

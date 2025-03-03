@@ -25,7 +25,7 @@
 #
 
 # --- Command line
-refname="$1"
+refname="$1"y
 oldrev="$2"
 newrev="$3"
 
