@@ -8,8 +8,7 @@
 #include Discord-Webhook-master\lib\resources\JSON.ahk
 #include Discord-Webhook-master\lib\resources\EmbedBuilder.ahk
 #include Discord-Webhook-master\lib\resources\WebHookBuilder.ahk
-#Include C:\Users\PCuse\OneDrive\Radna površina\afk\scr\lib\Gdip_All.ahk
-
+#include scr\Gdip_All.ahk
 WebhookURL := "https://discord.com/api/webhooks/1337184082420826174/r2D8cYjrG5iPniO90Tiv90rI8b_uMYxv21eSSouss1tmjNa4oNjjOMZ5MT6mwjcSPxoE"
 global MacroStartTime := A_TickCount
 global StageStartTime := A_TickCount
