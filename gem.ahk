@@ -78,3 +78,4 @@ CalculateElapsedTime(StartTime) {
 findtxt(){
     OCR.WaitText("Command",, OCR.FromWindow.Bind(OCR, "A"))
 }
+;lukaxdq

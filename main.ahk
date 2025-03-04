@@ -29,19 +29,39 @@ l:: {
 play(){
     if !ProcessExist("RobloxPlayerBeta.exe") {
         Run("https://www.roblox.com/games/16146832113/UPDATE-4-0-Anime-Vanguards?privateServerLinkCode=56232876547840639715220438241907")
+        Sleep(40000)
+        Send("^w") ; Send Ctrl+W
         Sleep(10000)
         WinActivate("Roblox")
+        main()
     } else {  
-        WinActivate("Roblox")
-        Sleep(10000)
+        Sleep(5000)
         main()
     }
 }
-
+m:: {
+    main()
+}
 main() {
+    if (result := OCR.FromDesktop(, 2).FindStrings("Afk")) {
+        MouseMove(968, 932)
+    }else{
+        return
+    }
+    WinActivate("Roblox")
+    if !(result := OCR.FromDesktop(, 2).FindStrings("Anime Vanguards" && "Tasks" && "Update")) {
+        ; Close Roblox
+        ProcessClose("RobloxPlayerBeta.exe")
+        ; Call reconect function
+        main()
+    }
+    Sleep(300)
     CoordMode("Mouse", "Window")
     OCR.WaitText("Update" && "Tasks",, OCR.FromWindow.Bind(OCR, "A"))
+    MouseMove(1342, 211)
+    Sleep(3300)
     MouseClick("Left")
+
     
     global MacroStartTime := A_TickCount
     Sleep(1000)
@@ -70,12 +90,30 @@ main() {
     Send("{" keys " Up}") ; Release the "s" key
     Send("{e Down}")
     Send("{e Up}")
-    
-    if (result := OCR.FromDesktop(, 2).FindStrings("You have been disconnected")) {
+    if !(result := OCR.FromDesktop(, 2).FindStrings("Afk")){
+        sendWebhook()
+    }else{
         main()
     }
 }
-
+t:: {
+    test()
+}
+test() {
+    try {
+        Send("{" keyd " Down}") ; Press and hold the "d" key
+        Sleep(7500) ; Hold for 7500 milliseconds (7.5 seconds)
+        Send("{" keyd " Up}")
+    }
+}
+r::reconect()
+reconect(){
+    Run("https://www.roblox.com/games/16146832113/UPDATE-4-0-Anime-Vanguards?privateServerLinkCode=56232876547840639715220438241907")
+    Sleep(2000)
+    Send("^w") ; Send Ctrl+W
+    main()
+    sendWebhookdisconect()
+}
 +::main()
 k::Exit
 c::Close()
@@ -124,20 +162,69 @@ sendWebhook() {
     seconds := Mod(elapsedTime, 60)
     elapsedTimeFormatted := Format("{:02}:{:02}:{:02}", hours, minutes, seconds)
     
+    ; Send the webhook with a message and the screenshot as an attachment.
+    try {
+        Webhook.send({
+            content: "lukaxdq-Macro has been running for " elapsedTimeFormatted,
+            files: [attachment],
+        })
+    }
+    ; Clean up resources.
+    Gdip_DisposeImage(pBitmap)
+    Gdip_Shutdown(pToken)
+}
+š::sendWebhookdisconect()
+sendWebhookdisconect() {
+    global WebhookURL, MacroStartTime
+    ; Validate webhook URL and create a new WebHookBuilder instance.
+    try {
+        if (WebhookURL != "")
+            Webhook := WebHookBuilder(WebhookURL)
+        else {
+            MsgBox("Webhook URL is not set.", "Webhook", 4096)
+            return
+        }
+    } catch {
+        MsgBox("Your webhook URL is not valid.", "Webhook", 4096)
+        return
+    }
+    
+    ; Initialize GDI+
+    pToken := Gdip_Startup()
+    if !pToken {
+        MsgBox("Failed to initialize GDI+")
+        return
+    }
+    
+    ; Capture a full-screen screenshot.
+    pBitmap := Gdip_BitmapFromScreen()
+    if !pBitmap {
+        MsgBox("Failed to capture screenshot.")
+        Gdip_Shutdown(pToken)
+        return
+    }
+    
+    ; Create an attachment from the screenshot.
+    attachment := AttachmentBuilder(pBitmap)
+    
+    ; Calculate the elapsed time in seconds.
+    elapsedTime := (A_TickCount - MacroStartTime) // 1000
+    hours := elapsedTime // 3600
+    minutes := Mod(elapsedTime // 60, 60)
+    seconds := Mod(elapsedTime, 60)
+    elapsedTimeFormatted := Format("{:02}:{:02}:{:02}", hours, minutes, seconds)
     
     ; Send the webhook with a message and the screenshot as an attachment.
     try {
         Webhook.send({
-            content: "Afk World: Macro has been running for " elapsedTimeFormatted,
-            files: [attachment]
+            files: [attachment],
+            content: "lukaxdq-Disconect" elapsedTimeFormatted,
         })
-    } catch {
-        
     }
-    
     ; Clean up resources.
     Gdip_DisposeImage(pBitmap)
     Gdip_Shutdown(pToken)
 }
 
 SetTimer(sendWebhook,1800000 )
+;lukaxdq
