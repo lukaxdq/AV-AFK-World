@@ -4,3 +4,5 @@
 .vscode
 .loader.ahk
 scr\github-webhook-master
+tests
+
