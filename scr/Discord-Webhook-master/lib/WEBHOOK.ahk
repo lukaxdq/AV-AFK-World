@@ -5,4 +5,4 @@
 #Include resources\EmbedBuilder.ahk
 #Include resources\WebHookBuilder.ahk
 
-webhook := WebHookBuilder("https://discord.com/api/webhooks/1337184082420826174/r2D8cYjrG5iPniO90Tiv90rI8b_uMYxv21eSSouss1tmjNa4oNjjOMZ5MT6mwjcSPxoE")  
+webhook := WebHookBuilder("insert web hook")  
