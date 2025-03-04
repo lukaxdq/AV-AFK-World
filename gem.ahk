@@ -1,7 +1,7 @@
 #Requires AutoHotkey v2.0
 #include scr\ocr\Lib\OCR.ahk
 #SingleInstance force
-#Include scr\lib\Gdip_Toolbox.ahk
+
 #include scr\Discord-Webhook-master\lib\WEBHOOK.ahk
 keybind1 := "g"
 keybind2 := "k"

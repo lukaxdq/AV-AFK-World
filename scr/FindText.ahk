@@ -8,11 +8,6 @@ if (ok:=FindText(&X, &Y, 656, 406, 1187, 681, 0, 0, Text))
 ; ok:=FindText(&X:="wait", &Y:=3, 0,0,0,0,0,0,Text)  ; Wait 3 seconds for appear
 ; ok:=FindText(&X:="wait0", &Y:=-1, 0,0,0,0,0,0,Text)  ; Wait indefinitely for disappear
 
-MsgBox "Found:`t" (IsObject(ok)?ok.Length:ok)
-  . "`n`nTime:`t" (A_TickCount-t1) " ms"
-  . "`n`nPos:`t" X ", " Y
-  . "`n`nResult:`t<" (IsObject(ok)?ok[1].id:"") ">", "Tip", 4096
-
 Try For i,v in ok  ; ok value can be get from ok:=FindText().ok
   if (i<=2)
     FindText().MouseTip(ok[i].x, ok[i].y)
@@ -2767,7 +2762,7 @@ Gui(cmd, arg1:="", args*)
     }
     if !InStr(f,"HBITMAP:") && !FileExist(f)
     {
-      MsgBox Lang["s17"], "Tip", "4096 T1"
+      
       return
     }
     if !this.ShowPic(f, 0, &sx, &sy, &sw, &sh)
@@ -2784,7 +2779,6 @@ Gui(cmd, arg1:="", args*)
     Loop
     {
       p:=this.GetRange2()
-      r:=MsgBox(Lang["s15"], "Tip", "4099")
       if (r!="No")
         Break
     }
@@ -2800,7 +2794,7 @@ Gui(cmd, arg1:="", args*)
     return
   Case "ClearAll":
     FindText_Capture.Opt("+OwnDialogs")
-    if MsgBox(Lang["s19"], "Tip", "4100")="Yes"
+    
     {
       FindText_Capture.Hide()
       Try FileDelete SavePicDir "*.bmp"
@@ -2850,7 +2844,7 @@ Gui(cmd, arg1:="", args*)
       if RegExMatch(s, "<[^>\n]*>[^$\n]+\$[^`"'\r\n]+", &r)
         v:=this.FindText(&X, &Y, 0,0,0,0, 0,0, r[0])
       r:=StrSplit(Lang["s8"] "||||", "|")
-      MsgBox r[1] ":`t" (IsObject(v)?v.Length:v) "`n`n"
+      
         . r[2] ":`t" (A_TickCount-t) " " r[3] "`n`n"
         . r[4] ":`t" X ", " Y "`n`n"
         . r[5] ":`t<" (IsObject(v)?v[1].id:"") ">", "Tip", "4096 T3"
@@ -3091,7 +3085,7 @@ Gui(cmd, arg1:="", args*)
     if (GrayDiff="")
     {
       _Gui.Opt("+OwnDialogs")
-      MsgBox Lang["s11"], "Tip", "4096 T1"
+      
       return
     }
     ListLines (lls:=A_ListLines)?0:0
@@ -3124,7 +3118,7 @@ Gui(cmd, arg1:="", args*)
     if (c="")
     {
       _Gui.Opt("+OwnDialogs")
-      MsgBox Lang["s12"], "Tip", "4096 T1"
+      
       return
     }
     s:=_Gui["ColorList"].Value
@@ -3150,7 +3144,7 @@ Gui(cmd, arg1:="", args*)
     if (color="")
     {
       _Gui.Opt("+OwnDialogs")
-      MsgBox Lang["s16"], "Tip", "4096 T1"
+      
       return
     }
     ListLines (lls:=A_ListLines)?0:0
@@ -3186,7 +3180,7 @@ Gui(cmd, arg1:="", args*)
     if (c="")
     {
       _Gui.Opt("+OwnDialogs")
-      MsgBox Lang["s12"], "Tip", "4096 T1"
+      
       return
     }
     n:=_Gui["Similar2"].Value, n:=Round(n/100,2), color:="#" c "-" n
@@ -3246,7 +3240,7 @@ Gui(cmd, arg1:="", args*)
     if (txt="")
     {
       FindText_Capture.Opt("+OwnDialogs")
-      MsgBox Lang["s13"], "Tip", "4096 T1"
+      
       return
     }
     While InStr(txt,bg)
@@ -3269,7 +3263,6 @@ Gui(cmd, arg1:="", args*)
     G_.Call("GetTxt")
     if (txt="") && (!MultiColor)
     {
-      MsgBox Lang["s13"], "Tip", "4096 T1"
       return
     }
     if InStr(color,"#") && (!MultiColor)
@@ -3290,7 +3283,6 @@ Gui(cmd, arg1:="", args*)
       ListLines lls
       if (j=0)
       {
-        MsgBox Lang["s12"], "Tip", "4096 T1"
         return
       }
       color:="#" j "-" StrSplit(color "-","-")[2]
@@ -3300,7 +3292,6 @@ Gui(cmd, arg1:="", args*)
     {
       if InStr(color,"#")
       {
-        MsgBox Lang["s14"], "Tip", "4096 T3"
         return
       }
       bg:=StrLen(StrReplace(txt,"0"))
